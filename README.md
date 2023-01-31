@@ -1,10 +1,10 @@
 # 💫 About Me:
-🎓 BS in Computer Science, major in Software Technology
-💻 Java & C programming specialist
-🔧 Passionate about developing efficient & effective solutions
-💾 Projects on Github showcase skills & problem-solving ability
-🚀 Eager to continue learning & expanding skills
-🤝 Open to opportunities & suggestions
+🎓 BS in Computer Science, major in Software Technology <br/>
+💻 Java & C programming specialist <br/>
+🔧 Passionate about developing efficient & effective solutions <br/>
+💾 Projects on Github showcase skills & problem-solving ability <br/>
+🚀 Eager to continue learning & expanding skills <br/>
+🤝 Open to opportunities & suggestions <br/>
 
 
 ## 🌐 Socials:
