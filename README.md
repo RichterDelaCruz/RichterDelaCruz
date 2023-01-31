@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there! I'm a student of BS Computer Science major in Software Technology. I specialize in Java and C programming languages and have a passion for developing efficient and effective solutions. My projects on Github showcase my ability to work with these technologies and solve real-world problems. As a student, I'm eager to continue learning and expanding my skill set. If you have any opportunities or suggestions, I'd love to hear from you. Thanks for stopping by!
+🎓 BS in Computer Science, major in Software Technology
+💻 Java & C programming specialist
+🔧 Passionate about developing efficient & effective solutions
+💾 Projects on Github showcase skills & problem-solving ability
+🚀 Eager to continue learning & expanding skills
+🤝 Open to opportunities & suggestions
 
 
 ## 🌐 Socials:
