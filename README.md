@@ -1,3 +1,5 @@
+<img src="header.jpg" width="100%">
+
 # 💫 About Me:
 🎓 BS in Computer Science, major in Software Technology <br/>
 💻 Java & C programming specialist <br/>
