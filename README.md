@@ -1,7 +1,7 @@
 <img src="header.jpg" width="100%">
 
 # 💫 About Me:
-🎓 Studying BS in Computer Science, major in Software Technology <br/>
+🎓 Pursuing BS in Computer Science, major in Software Technology <br/>
 💻 Java & C programming specialist <br/>
 🔧 Passionate about developing efficient & effective solutions <br/>
 💾 Projects on Github showcase skills & problem-solving ability <br/>
