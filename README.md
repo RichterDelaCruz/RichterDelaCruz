@@ -1,4 +1,4 @@
-<img src="header.jpg" width="100%">
+<img src="header (2).jpg" width="100%">
 
 # 💫 About Me:
 🎓 Pursuing BS in Computer Science, major in Software Technology <br/>
