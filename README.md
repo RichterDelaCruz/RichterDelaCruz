@@ -1,5 +1,3 @@
-<img src="header (2).jpg" width="100%">
-
 # About Me
 **Strategy & Execution / Project Management Analyst @ UNO Digital Bank** *Computer Science Graduate from De La Salle University (Software Technology)*
 
